@@ -1,1 +1,1 @@
-"# ExchangeRateCalculator" 
+# ExchangeRateCalculator
