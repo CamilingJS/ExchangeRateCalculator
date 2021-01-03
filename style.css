@@ -1,5 +1,5 @@
 :root {
-    --primary-color: #5fbaa8;
+    --primary-color: #5fbaa7;
 }
 
 * {
@@ -8,7 +8,7 @@
 
 body {
     background-color: #f4f4f4;
-    font-family: monospace;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -36,11 +36,10 @@ p {
 }
 
 .money-img {
-    width: 150px;
+    width: 20vh;
 }
-
 .currency {
-    padding: 40px 0; 
+    padding: 15px 0; 
     display: flex;
     align-items: center;
     justify-content: space-between;
