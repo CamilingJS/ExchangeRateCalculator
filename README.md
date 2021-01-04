@@ -3,3 +3,4 @@
 ## Allows clients to input desired country rate and outputs secondary country rate
 ## Allows for swapping of the two countries selected
 ## Allows for any amount to converted 
+![](img/ExchangeRateCalculator.png)
